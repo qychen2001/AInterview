@@ -1,18 +1,10 @@
 <template>
-  <el-container>
-    <RouterView />
-  </el-container>
+  <RouterView />
 </template>
 
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
 
 <style>
-.el-container {
-  height: 100%;
-}
-
-
 html,
 body {
   width: 100%;
